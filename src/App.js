@@ -22,7 +22,7 @@ class App extends Component {
       <div className="app">
         <div className="main">
             <div className="search">
-              x
+              Project 1
             </div>
             <div className="flats">
               y
