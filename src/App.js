@@ -22,11 +22,14 @@ class App extends Component {
       <div className="app">
         <div className="main">
             <div className="search">
+              x
             </div>
             <div className="flats">
+              y
             </div>
         </div>
         <div className="map">
+          z
         </div>
       </div>
     );
